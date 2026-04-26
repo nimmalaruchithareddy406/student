@@ -6,11 +6,13 @@ function Register() {
       <div className="card">
         <input type="text" placeholder="Student Name" />
         <input type="text" placeholder="Roll Number" />
-        <input type="email" placeholder="Email" />
+        <input type="email" placeholder="Email Address" />
         <input type="tel" placeholder="Mobile Number" />
         <input type="text" placeholder="Department" />
         <input type="text" placeholder="Year" />
+        <input type="date" placeholder="Date of Birth" />
         <input type="password" placeholder="Password" />
+
         <button>Register</button>
       </div>
     </div>
